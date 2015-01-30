@@ -1,0 +1,66 @@
+body {
+	background-color: black;
+}
+
+body > .container {
+	padding 60px;
+}
+
+.navbar-default {
+	background-color: rgba(0,0,0,.33);
+	background-image: none;
+	border-radius: 0px;
+	border: none;
+	border-bottom: 1px white solid;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+	font-family: 'Averia Libre', cursive;
+}
+
+.navbar-default .navbar-brand img {
+	float:left;
+	margin-right: 5px;
+	margin-top: -10px;
+}
+
+#header-banner {
+	width: 100%;
+	margin-bottom: -130px;
+}
+
+.jumbotron {
+	background-color: black;
+}
+
+.jumbotron h1 {
+	color: white;
+	text-shadow: 3px 3px 3px rgba(0, 0, 0, .66);
+	text-align: left;
+	font-family: 'Averia Libre', cursive;
+	font-weight: bold;
+}
+
+.header-title-wrapper {
+	position: relative;
+	z-index: 1;
+}
+
+.header-title-wrapper p {
+	color: white;
+	font-family: 'Averia Libre', cursive;
+	font-weight: normal;
+	text-align: left;
+	margin-top: -10px;
+	font-size: 14px;
+	line-height: 14px;
+}
+
+#profile-picture {
+	float: left;
+	z-index: 2;
+	position: relative;
+	margin-right: 10px;
+	box-shadow: 3px 3px 3px rgba(0, 0, 0, .66);
+}
