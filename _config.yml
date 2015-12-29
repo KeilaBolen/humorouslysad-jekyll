@@ -1,12 +1,12 @@
 # Site settings
 title: Humorously Sad
-email: spam@humorouslysad.com
+email: humorouslysad@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Some things are just so sad, they're hilarious.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://humorouslysad.com" # the base hostname & protocol for your site
-twitter_username: micahbolen
-github_username:  micahbolen
+twitter_username: humorouslysad
+github_username:  humorouslysad
 
 # Build settings
 markdown: kramdown

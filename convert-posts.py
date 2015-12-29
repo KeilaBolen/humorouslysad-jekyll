@@ -6,7 +6,7 @@ from dateutil import parser
 from contextlib import closing
 
 graphUrl = "https://graph.facebook.com/v2.3/"
-accessToken = "CAACEdEose0cBAPlBJs3yyZB5ChWFx4wjEKNIjRISrZAFWQ23pRTEgyViwRyv0Sfc5HOjxtMIfPYZB5APeDtZAivI79OZA29rDOsytG89phO69ICyqNuo8fFb2mCSkDhXshkrcgns4SOFZA743tbRDNoC9AP4IyZCdgjbBDHUnhPmZCwbpR6BmOCApqAGwAuVyqDMECMkGxaZATQI3gAtyJJebnsUdCAoge5MZD"
+accessToken = "CAACEdEose0cBABawvXX4eQyV353ZAL9hvTicGVrjNBAdioBZBhMZCt5lXUcE7mfvm1xoStCoDuByc42E8m8NU3H3dcMqFGHmZBTdELa0vJRQXeua4KEg7XrYojyT9BjmZBhKQWiBZA3PimuzMgCEWZABBc1I55cGERz1suAW7EMCZALWRuVTXLT66VZByPZB7Far1mG1kFu5eZBbuc883C7gKaI"
 pageId = "451303254914427"
 
 r = requests.get(graphUrl + pageId + "/feed?access_token=" + accessToken)
@@ -18,41 +18,47 @@ posts = data["data"]
 nextPageUrl = data["paging"]["next"]
 
 def convertPosts(posts, next):
+  postCount = 0
   for post in posts:
+    postCount += 1
+    print('converting post #%d' % postCount)
     postDate = parser.parse(post["created_time"])
     ymd = str(postDate.year) + "-" + str(postDate.month) + "-" + str(postDate.day)
-    fileName = '_posts/' + ymd + "-" + post["id"] + ".md"
+    fileName = '_posts/' + ymd + "-" + post["id"] + "-human-message-goes-here.md"
     f = open(fileName, 'w')
     if 'picture' in post and 'message' in post:
       fileContents = '''---
 tags: [\'\']
 layout: post
-title: ''' + post["id"] + '''
+title: ''' + post["id"] + ''' human message goes here
 category: \'\'
 ---
+human message goes here
 ''' + post["message"] + '''
-![''' + post["id"] + '''](/uploads/''' + ymd + '''-''' + post["id"] + '''.jpg)
+![''' + post["id"] + '''](/uploads/''' + ymd + '''-''' + post["id"] + '''-human-message-goes-here.jpg)
 '''
- 
-    elif 'picture' in post:   
+
+    elif 'picture' in post:
       fileContents = '''---
 tags: [\'\']
 layout: post
-title: ''' + post["id"] + '''
+title: ''' + post["id"] + ''' human message goes here
 category: \'\'
 ---
-![''' + post["id"] + '''](/uploads/''' + ymd + '''-''' + post["id"] + '''.jpg)
+human message goes here
+![''' + post["id"] + '''](/uploads/''' + ymd + '''-''' + post["id"] + '''-human-message-goes-here.jpg)
 '''
- 
+
     elif 'message' in post:
       fileContents = '''---
 tags: [\'\']
 layout: post
-title: ''' + post["id"] + '''
+title: ''' + post["id"] + ''' human message goes here
 category: \'\'
 ---
-''' + post["message"]
-
+''' + post["message"] + '''
+human message goes here
+'''
 
     else:
       f.close()
@@ -61,15 +67,15 @@ category: \'\'
 
     f.write(fileContents)
     f.close()
-    
+
     if 'picture' in post and 'object_id' in post:
-      with closing(requests.get(graphUrl + post["object_id"] + "/picture?access_token=" + accessToken + "&type=normal", stream=True)) as imageResponse: 
-        with open('uploads/'+ymd+'-'+post["id"]+'.jpg', 'wb') as out_file:
+      with closing(requests.get(graphUrl + post["object_id"] + "/picture?access_token=" + accessToken + "&type=normal", stream=True)) as imageResponse:
+        with open('uploads/'+ymd+'-'+post["id"]+'-human-message-goes-here.jpg', 'wb') as out_file:
           shutil.copyfileobj(imageResponse.raw, out_file)
         del imageResponse
-     
+
   del posts
-   
+
   if next:
     nextRequest = requests.get(next)
     nextData = json.loads(nextRequest.text)
@@ -78,6 +84,6 @@ category: \'\'
       if 'next' in nextData['paging']:
         nextPosts = nextData["data"]
         nextPageUrl = nextData["paging"]["next"]
-        convertPosts(nextPosts, nextPageUrl)  
+        convertPosts(nextPosts, nextPageUrl)
 
 convertPosts(posts, nextPageUrl)
