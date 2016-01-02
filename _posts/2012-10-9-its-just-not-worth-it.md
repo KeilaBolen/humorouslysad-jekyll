@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_422748091117947 human message goes here
+title: It Is Just Not Worth It
 category: ''
 ---
-human message goes here
-![451303254914427_422748091117947](/uploads/2012-10-9-451303254914427_422748091117947-human-message-goes-here.jpg)
+It is just not worth it.
+![It is just not worth it.](/uploads/2012-10-9-its-just-not-worth-it.jpg)

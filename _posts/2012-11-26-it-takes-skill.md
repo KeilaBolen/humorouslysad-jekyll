@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_443156315748539 human message goes here
+title: It Takes Skill
 category: ''
 ---
-human message goes here
-![451303254914427_443156315748539](/uploads/2012-11-26-451303254914427_443156315748539-human-message-goes-here.jpg)
+It takes skill.
+![It takes skill.](/uploads/2012-11-26-it-takes-skill.jpg)

@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_269444769845187 human message goes here
+title: That Awkward Moment
 category: ''
 ---
-human message goes here
-![451303254914427_269444769845187](/uploads/2012-12-12-451303254914427_269444769845187-human-message-goes-here.jpg)
+That awkward moment.
+![That awkward moment.](/uploads/2012-12-12-that-awkward-moment.jpg)

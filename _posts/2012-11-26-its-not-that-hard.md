@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_129318910557176 human message goes here
+title: It Is Not That Hard
 category: ''
 ---
-human message goes here
-![451303254914427_129318910557176](/uploads/2012-11-26-451303254914427_129318910557176-human-message-goes-here.jpg)
+It is not that hard.
+![It is not that hard.](/uploads/2012-11-26-its-not-that-hard.jpg)

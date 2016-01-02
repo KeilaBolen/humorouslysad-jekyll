@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_188905917913125 human message goes here
+title: Meeting At My House
 category: ''
 ---
-human message goes here
-![451303254914427_188905917913125](/uploads/2012-11-3-451303254914427_188905917913125-human-message-goes-here.jpg)
+Meeting at my house.
+![Meeting at my house.](/uploads/2012-11-3-meeting-at-my-house.jpg)

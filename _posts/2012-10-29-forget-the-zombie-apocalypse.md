@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_342065765890095 human message goes here
+title: Forget The Zombie Apocalypse
 category: ''
 ---
-human message goes here
-![451303254914427_342065765890095](/uploads/2012-10-29-451303254914427_342065765890095-human-message-goes-here.jpg)
+Forget the zombie apocalypse.
+![Forget the zombie apocalypse.](/uploads/2012-10-29-forget-the-zombie-apocalypse.jpg)

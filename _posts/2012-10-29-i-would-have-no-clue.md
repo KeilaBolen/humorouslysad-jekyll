@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_287798984670385 human message goes here
+title: I Would Have No Clue
 category: ''
 ---
-human message goes here
-![451303254914427_287798984670385](/uploads/2012-10-29-451303254914427_287798984670385-human-message-goes-here.jpg)
+I would have no clue.
+![I would have no clue.](/uploads/2012-10-29-i-would-have-no-clue.jpg)
