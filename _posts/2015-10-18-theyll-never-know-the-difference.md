@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_1035574513153962 human message goes here
+title: They Will Never Know The Difference
 category: ''
 ---
-human message goes here
-![451303254914427_1035574513153962](/uploads/2015-10-18-451303254914427_1035574513153962-human-message-goes-here.jpg)
+They'll never know the difference.
+![They will never know the difference.](/uploads/2015-10-18-theyll-never-know-the-difference.jpg)

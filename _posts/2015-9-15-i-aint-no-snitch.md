@@ -1,9 +1,9 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_1020601677984579 human message goes here
+title: I Am Not A Snitch
 category: ''
 ---
-human message goes here
+I am not a snitch.
 Is this racist?
-![451303254914427_1020601677984579](/uploads/2015-9-15-451303254914427_1020601677984579-human-message-goes-here.jpg)
+![I am not a snitch.](/uploads/2015-9-15-i-aint-no-snitch.jpg)

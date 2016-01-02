@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_1028564230521657 human message goes here
+title: Warn Your Friends
 category: ''
 ---
-human message goes here
-![451303254914427_1028564230521657](/uploads/2015-10-2-451303254914427_1028564230521657-human-message-goes-here.jpg)
+Warn your friends.
+![Warn your friends.](/uploads/2015-10-2-warn-your-friends.jpg)
