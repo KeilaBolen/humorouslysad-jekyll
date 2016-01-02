@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_1045744322136981 human message goes here
+title: Just Keep It To Yourself
 category: ''
 ---
-human message goes here
-![451303254914427_1045744322136981](/uploads/2015-11-10-451303254914427_1045744322136981-human-message-goes-here.jpg)
+Just keep it to yourself.
+![Just keep it to yourself.](/uploads/2015-11-10-just-keep-it-to-yourself.jpg)

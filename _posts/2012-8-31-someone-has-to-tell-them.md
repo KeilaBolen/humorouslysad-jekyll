@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_451800864864666 human message goes here
+title: Someone Has To Tell Them
 category: ''
 ---
-human message goes here
-Stupid people...
-![451303254914427_451800864864666](/uploads/2012-8-31-451303254914427_451800864864666-human-message-goes-here.jpg)
+Someone has to tell them.
+![Someone has to tell them.](/uploads/2012-8-31-someone-has-to-tell-them.jpg)

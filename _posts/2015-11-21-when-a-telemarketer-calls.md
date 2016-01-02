@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_1051096908268389 human message goes here
+title: When A Telemarketer Calls
 category: ''
 ---
-human message goes here
-![451303254914427_1051096908268389](/uploads/2015-11-21-451303254914427_1051096908268389-human-message-goes-here.jpg)
+When a telemarketer calls.
+![When a telemarketer calls.](/uploads/2015-11-21-when-a-telemarketer-calls.jpg)

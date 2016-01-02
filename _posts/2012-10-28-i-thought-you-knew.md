@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_399972326738433 human message goes here
+title: I Thought You Knew
 category: ''
 ---
-human message goes here
-![451303254914427_399972326738433](/uploads/2012-10-28-451303254914427_399972326738433-human-message-goes-here.jpg)
+I thought you knew.
+![I thought you knew.](/uploads/2012-10-28-i-thought-you-knew.jpg)

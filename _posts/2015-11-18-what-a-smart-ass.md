@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_1049608045083942 human message goes here
+title: What A Smart Ass
 category: ''
 ---
-human message goes here
-![451303254914427_1049608045083942](/uploads/2015-11-18-451303254914427_1049608045083942-human-message-goes-here.jpg)
+What a smart ass.
+![What a smart ass.](/uploads/2015-11-18-what-a-smart-ass.jpg)

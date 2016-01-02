@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_451791248198961 human message goes here
+title: I Am Just Saying
 category: ''
 ---
-human message goes here
-I'm not saying...
-![451303254914427_451791248198961](/uploads/2012-8-31-451303254914427_451791248198961-human-message-goes-here.jpg)
+I'm just saying.
+![I am just saying.](/uploads/2012-8-31-im-just-saying.jpg)
