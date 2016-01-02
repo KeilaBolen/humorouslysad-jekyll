@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_290734767707038 human message goes here
+title: We All Know Who Those People Are
 category: ''
 ---
-human message goes here
-![451303254914427_290734767707038](/uploads/2012-10-2-451303254914427_290734767707038-human-message-goes-here.jpg)
+We all know who those people are.
+![We all know who those people are.](/uploads/2012-10-2-we-all-know-who-those-people-are.jpg)

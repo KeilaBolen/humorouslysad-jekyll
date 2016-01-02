@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_369485079812251 human message goes here
+title: When Someone Says Stop
 category: ''
 ---
-human message goes here
-![451303254914427_369485079812251](/uploads/2012-10-11-451303254914427_369485079812251-human-message-goes-here.jpg)
+When someone says stop.
+![When someone says stop.](/uploads/2012-10-11-when-someone-says-stop.jpg)
