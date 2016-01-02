@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_1041719202539493 human message goes here
+title: What Time Is It?
 category: ''
 ---
-human message goes here
-![451303254914427_1041719202539493](/uploads/2015-11-2-451303254914427_1041719202539493-human-message-goes-here.jpg)
+What time is it?
+![What time is it?](/uploads/2015-11-2-what-time-is-it.jpg)
