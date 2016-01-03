@@ -5,15 +5,17 @@ layout: default
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 13 %}
       <li>
-        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-          {{ post.content }}
-        </a>
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+       <p class="meta">{{ post.date | date_to_string }}</p>
 
+       <div class="post">
+         {{ post.content }}
+       </div>
       </li>
     {% endfor %}
+    <div class="infinite-spinner"></div>
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
