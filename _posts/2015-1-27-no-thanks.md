@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_897815660263182 human message goes here
+title: No Thanks
 category: ''
 ---
-human message goes here
 Um, no thanks.
-![451303254914427_897815660263182](/uploads/2015-1-27-451303254914427_897815660263182-human-message-goes-here.jpg)
+![Um, no thanks.](/uploads/2015-1-27-um-no-thanks.jpg)

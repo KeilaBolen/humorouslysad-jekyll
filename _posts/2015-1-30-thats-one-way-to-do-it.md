@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_898964683481613 human message goes here
+title: That's One Way To Do It
 category: ''
 ---
-human message goes here
-Seems legit.
-![451303254914427_898964683481613](/uploads/2015-1-30-451303254914427_898964683481613-human-message-goes-here.jpg)
+That's one way to do it.
+![That's one way to do it.](/uploads/2015-1-30-thats-one-way-to-do-it.jpg)

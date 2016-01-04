@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_897432626968152 human message goes here
+title: I Prefer A Tiara
 category: ''
 ---
-human message goes here
 I prefer a tiara.
-![451303254914427_897432626968152](/uploads/2015-1-27-451303254914427_897432626968152-human-message-goes-here.jpg)
+![I prefer a tiara.](/uploads/2015-1-27-i-prefer-a-tiara.jpg)

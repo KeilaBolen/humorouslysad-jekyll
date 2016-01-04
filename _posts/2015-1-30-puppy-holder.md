@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_899012446810170 human message goes here
+title: Puppy Holder
 category: ''
 ---
-human message goes here
-Aww.
-![451303254914427_899012446810170](/uploads/2015-1-30-451303254914427_899012446810170-human-message-goes-here.jpg)
+Puppy holder.
+![Puppy holder.](/uploads/2015-1-30-puppy-holder.jpg)
