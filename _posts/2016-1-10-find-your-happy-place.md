@@ -5,4 +5,4 @@ title: Find Your Happy Place
 category: ''
 ---
 Find your happy place.
-![Find your happy place.](/uploads/1-10-2016-find-your-happy-place.jpg)
+![Find your happy place.](/uploads/2016-1-10-find-your-happy-place.jpg)
