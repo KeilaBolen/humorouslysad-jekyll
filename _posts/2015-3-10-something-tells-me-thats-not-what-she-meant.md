@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_921068954604519 human message goes here
+title: Something Tells Me That's Not What She Meant
 category: ''
 ---
-human message goes here
-I'm not sure that's what she had in mind.
-![451303254914427_921068954604519](/uploads/2015-3-10-451303254914427_921068954604519-human-message-goes-here.jpg)
+Something tells me that's not what she meant.
+![Something tells me that's not what she meant.](/uploads/2015-3-10-something-tells-me-thats-not-what-she-meant.jpg)

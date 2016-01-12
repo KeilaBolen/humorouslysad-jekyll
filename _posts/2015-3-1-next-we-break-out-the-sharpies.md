@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_916440478400700 human message goes here
+title: Next We Break Out The Sharpies
 category: ''
 ---
-human message goes here
-Then we broke out the sharpies.
-![451303254914427_916440478400700](/uploads/2015-3-1-451303254914427_916440478400700-human-message-goes-here.jpg)
+Next, we break out the sharpies.
+![Next, we break out the sharpies.](/uploads/2015-3-1-next-we-break-out-the-sharpies.jpg)

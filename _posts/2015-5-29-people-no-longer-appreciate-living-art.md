@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_962115590499855 human message goes here
+title: People No Longer Appreciate Living Art
 category: ''
 ---
-human message goes here
-I guess people no longer appreciate living art this day and age.
-![451303254914427_962115590499855](/uploads/2015-5-29-451303254914427_962115590499855-human-message-goes-here.jpg)
+People no longer appreciate living art.
+![People no longer appreciate living art.](/uploads/2015-5-29-people-no-longer-appreciate-living-art.jpg)

@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_908753015836113 human message goes here
+title: Like The Q-Tip I Borrowed Last Week
 category: ''
 ---
-human message goes here
 Like the Q-tip I borrowed last week.
-![451303254914427_908753015836113](/uploads/2015-2-16-451303254914427_908753015836113-human-message-goes-here.jpg)
+![Like the Q-tip I borrowed last week.](/uploads/2015-2-16-like-the-q-tip-i-borrowed-last-week.jpg)

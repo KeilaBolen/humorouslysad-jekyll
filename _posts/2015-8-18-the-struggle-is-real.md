@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_1005400612838019 human message goes here
+title: The Struggle Is Real
 category: ''
 ---
-human message goes here
-Who's been there?
-![451303254914427_1005400612838019](/uploads/2015-8-18-451303254914427_1005400612838019-human-message-goes-here.jpg)
+The struggle is real.
+![The struggle is real.](/uploads/2015-8-18-the-struggle-is-real.jpg)

@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_929637087081039 human message goes here
+title: Some People Can Be So Negative
 category: ''
 ---
-human message goes here
-There are no words...
-![451303254914427_929637087081039](/uploads/2015-3-26-451303254914427_929637087081039-human-message-goes-here.jpg)
+Some people can be so negative.
+![Some people can be so negative.](/uploads/2015-3-26-some-people-can-be-so-negative.jpg)

@@ -1,8 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_995881433789937 human message goes here
+title: Only A Matter Of Time
 category: ''
 ---
-human message goes here
-![451303254914427_995881433789937](/uploads/2015-7-31-451303254914427_995881433789937-human-message-goes-here.jpg)
+Only a matter of time.
+![Only a matter of time.](/uploads/2015-7-31-only-a-matter-of-time.jpg)

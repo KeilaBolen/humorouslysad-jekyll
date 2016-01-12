@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_988403531204394 human message goes here
+title: We Miss You, Pluto
 category: ''
 ---
-human message goes here
-Different perspective.
-![451303254914427_988403531204394](/uploads/2015-7-17-451303254914427_988403531204394-human-message-goes-here.jpg)
+We miss you, Pluto.
+![We miss you, Pluto.](/uploads/2015-7-17-we-miss-you-pluto.jpg)

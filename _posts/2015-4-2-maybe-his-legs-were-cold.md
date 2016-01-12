@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_933574483353966 human message goes here
+title: Maybe His Legs Were Cold
 category: ''
 ---
-human message goes here
-Ummm....
-![451303254914427_933574483353966](/uploads/2015-4-2-451303254914427_933574483353966-human-message-goes-here.jpg)
+Maybe his legs were cold.
+![Maybe his legs were cold.](/uploads/2015-4-2-maybe-his-legs-were-cold.jpg)

@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_923300827714665 human message goes here
+title: Epic Tampon Ad
 category: ''
 ---
-human message goes here
-Epic tampon ad
-![451303254914427_923300827714665](/uploads/2015-3-14-451303254914427_923300827714665-human-message-goes-here.jpg)
+Epic tampon ad.
+![Epic tampon ad.](/uploads/2015-3-14-epic-tampon-ad.jpg)

@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_953767358001345 human message goes here
+title: I'll Never See Yoda The Same Way Again
 category: ''
 ---
-human message goes here
-smh
-![451303254914427_953767358001345](/uploads/2015-5-11-451303254914427_953767358001345-human-message-goes-here.jpg)
+I'll never see Yoda the same way again.
+![I'll never see Yoda the same way again.](/uploads/2015-5-11-ill-never-see-yoda-the-same-way-again.jpg)

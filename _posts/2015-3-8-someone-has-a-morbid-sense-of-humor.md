@@ -1,9 +1,8 @@
 ---
 tags: ['']
 layout: post
-title: 451303254914427_920250898019658 human message goes here
+title: Someone Has A Morbid Sense Of Humor
 category: ''
 ---
-human message goes here
-I'm not even sure what to say about this.
-![451303254914427_920250898019658](/uploads/2015-3-8-451303254914427_920250898019658-human-message-goes-here.jpg)
+Someone has a morbid sense of humor.
+![Someone has a morbid sense of humor.](/uploads/2015-3-8-someone-has-a-morbid-sense-of-humor.jpg)
